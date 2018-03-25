@@ -1,0 +1,6 @@
+*.png
+*.py
+kNN.ipynb
+*.txt
+*checkpoint*
+
